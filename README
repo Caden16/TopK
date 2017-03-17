@@ -1,1 +1,3 @@
+Top-k Based On Hadoop
+=====================
 如果要运行编译这个工程文件，需要将spark-assembly-1.1.0-hadoop2.4.0.jar放在工程下的lib文件夹下。
